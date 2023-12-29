@@ -1,3 +1,3 @@
-const backendUrl = 'http://localhost:5000'
+const backendUrl = 'https://test-server-lh8e.onrender.com'
 
 export default backendUrl;
